@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234806748269",
+    "firebase_url": "https://hackeruproject.firebaseio.com",
+    "project_id": "hackeruproject",
+    "storage_bucket": "hackeruproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234806748269:android:e8f22382e3017a3b",
+        "android_client_info": {
+          "package_name": "com.example.ericbell.hackeruproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234806748269-a1gh7go6hl02es7lehrnu6d3db0pfs2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ericbell.hackeruproject",
+            "certificate_hash": "7a3a8b431062a2db22a8cfd70e1b1307a0386ac6"
+          }
+        },
+        {
+          "client_id": "234806748269-04ptmn120k6vagc2ono98r6ep2u9d4ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1ZkBplXt_kUgFmikllQHTjjMzj0G2oY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234806748269-04ptmn120k6vagc2ono98r6ep2u9d4ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
